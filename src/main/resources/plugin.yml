@@ -1,0 +1,6 @@
+name: MCplugin
+version: '${project.version}'
+main: io.codepoint.mcplugin.MCplugin
+api-version: 1.19
+authors: [ Johann_van_Vuuren ]
+description: Develop Minecraft Plugins (Java) - Udemy course
